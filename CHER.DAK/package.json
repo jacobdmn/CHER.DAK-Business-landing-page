@@ -1,0 +1,14 @@
+{
+  "name": "cher.dak",
+  "version": "1.0.0",
+  "description": "a business website, to sell high quality chairs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chairs"
+  ],
+  "author": "Jacob Dmn",
+  "license": "ISC"
+}
