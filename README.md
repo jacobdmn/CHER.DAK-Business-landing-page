@@ -1,5 +1,5 @@
 # CHER-DAK
-a chairs business website
+a Chairs Business Website [HTML/CSS/JS]
 
 A Friend of mine who has a chairs business, and wants me to create his website.
 Well, #Week1, I learned a lot
