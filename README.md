@@ -13,5 +13,5 @@ I learned so many things, mostly proud of:
 - I learned to use clearNamesInVariables since the bigger the project gets, the harder it gets to maintain and remember 
 P.S: we are still working on it, when it gets ready, We're planning to buy an A2 Hosting, I'll take care of everything, since 
 
-#tmp_link
-https://cher-dak.netlify.app
+## #tmp_link
+## https://cher-dak.netlify.app
